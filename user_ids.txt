@@ -1,0 +1,36 @@
+
+a@a.com ---- a66120f1-1c79-46a5-967f-a899b3edceab
+
+skd1@d.com ---- 534fb215-6400-4929-84bb-877ed725a85b
+
+sourabhd081@gmail.com ---- a19a83e1-f745-4a24-b198-93d7b36b7706   # this one sender 
+
+skd@g.com ---- 522ca1ce-4d50-4517-be44-f9e8240058af  # receiver
+
+sk1d@g.com ---- 98f70669-1e3e-4a99-9d1c-fe025f7b697c    .
+
+sk12d@g.com ---- 6cf2179f-fccc-4048-8468-2a8ceb5f2b0c
+
+sk112d@g.com ---- 36be2bc4-5bd3-4ae0-8f75-a78d25b2029c
+
+sk122d@g.com ---- 38bc24b7-c422-414d-a593-4f2d89d847df
+
+sk1232d@g.com ---- 04c770c6-42eb-458a-9823-eba745381c62
+
+sk1212d@g.com ---- 9d063f8b-0f1b-44d8-8c84-5c33334b8664
+
+sk3212d@g.com ---- a5487470-a161-4475-a91f-50aeb8a7dbb4
+
+sk3112d@g.com ---- 7640d217-69c4-496e-b866-f7c6f279922a
+
+sk4112d@g.com ---- 279e5f7c-0fce-4788-90bd-f3076fcf77b5
+
+sk41142d@g.com ---- dd3441f4-bbd7-4813-82b5-73c5b79b5d57
+
+sk411442d@g.com ---- 8eafaa5e-df9f-4c22-ad93-476fd50d910f
+
+sk4141442d@g.com ---- bdedb95c-b7a7-424c-9b2e-605858f24f2f
+
+sk41414442d@g.com ---- 49508a6b-1adf-47b2-8f8e-73dbcfdee06d
+
+sk414144442d@g.com ---- 5159245c-bb99-4143-aec0-72a5b79fd29e
